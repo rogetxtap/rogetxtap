@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @rogetxtap
-- 👀 I'm interested in: Machine Learning, Data Engineering, and MLOps, LLMs.
+- 👀 I'm interested in: Machine Learning and MLOps, Data Engineering, LLMs...
 - 🌱 I'm currently learning: LLMs and RAG, LLMs Fine-tuning and Self-hosting LLMs, Vector databases, LLM Orchestration, Monitoring and guardrails...
 - 💞️ I'm looking to collaborate in: Machine Learning and LLMs.
 - 📫 How to contact me: X @rogeap1
